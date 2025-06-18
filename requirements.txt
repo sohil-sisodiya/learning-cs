@@ -1,0 +1,20 @@
+# Core 
+numpy
+pandas
+matplotlib
+
+# Jupyter Notebook
+notebook
+ipykernel
+
+# ml libraries
+# scikit-learn
+# xgboost
+# lightgbm
+
+# Deep Learning
+# tensorflow
+# torch
+
+
+

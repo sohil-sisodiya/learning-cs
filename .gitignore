@@ -1,0 +1,35 @@
+# jupyter notebook
+.ipynb_checkpoints/
+
+# Python cache and compiled files
+_pycache_/
+*.py[cod]
+*.so
+
+# environment files
+.env
+.venv/
+venv/
+ENV/
+evn/
+*.egg-info/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# Data Files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.zip
+
+# logs an outputs
+*.log
+*.out
+
+# VSCode and IDE config files
+.vscode/
+.idea/
